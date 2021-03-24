@@ -46,11 +46,12 @@
         </div>
         <div v-if="currLvl === 4">
           <p>¡Descubriste el diálogo secreto!</p>
-          <p>- ¿uYGH? ¿Cómo va eso? Bueno, ¿Qué vamos a hacer hoy?<br/>
+          <p>- ¿uYGH? ¿Cómo va eso? Bueno, ¿Qué vamos a hacer?<br/>
              - Connect points, ¿Seh?</p>
           <p>Desbloqueaste:<br/>
             • Moni (+1)<br/>
-            • Gajo (+1)</p>
+            • Gajo (+1)
+            • Goku (+2)</p>
         </div>
       </template>
     </BaseModal>
@@ -88,7 +89,9 @@ export default {
         {expression: "uYGH", duration: "0.24", lvl: 3},
         {expression: "qvamohacer", duration: "0.28", lvl: 3},
         {expression: "vos", duration: "0.38", lvl: 4},
-        {expression: "qtal", duration: "0.28", lvl: 4}
+        {expression: "qtal", duration: "0.28", lvl: 4},
+        {expression: "qcargosa", duration: "0.28", lvl: 4},
+        {expression: "lorevoleo", duration: "0.28", lvl: 4}
       ],
       showModalButtonLocked: false,
       showModalLevelUp: false,
