@@ -90,8 +90,8 @@ export default {
         {expression: "qvamohacer", duration: "0.28", lvl: 3},
         {expression: "vos", duration: "0.38", lvl: 4},
         {expression: "qtal", duration: "0.28", lvl: 4},
-        {expression: "qcargosa", duration: "0.28", lvl: 4},
-        {expression: "lorevoleo", duration: "0.28", lvl: 4}
+        {expression: "qcargosa", duration: "0.34", lvl: 4},
+        {expression: "lorevoleo", duration: "0.40", lvl: 4}
       ],
       showModalButtonLocked: false,
       showModalLevelUp: false,
