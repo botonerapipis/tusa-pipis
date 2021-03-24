@@ -50,7 +50,7 @@
              - Connect points, ¿Seh?</p>
           <p>Desbloqueaste:<br/>
             • Moni (+1)<br/>
-            • Gajo (+1)
+            • Gajo (+1)<br/>
             • Goku (+2)</p>
         </div>
       </template>
